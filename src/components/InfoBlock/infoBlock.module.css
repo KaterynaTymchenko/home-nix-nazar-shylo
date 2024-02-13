@@ -1,0 +1,14 @@
+.infoBlockContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 20%;
+  height: 340px;
+  padding: 30px;
+  margin: 20px;
+  border: 1px solid grey;
+  border-radius: 20px;
+  background-color: #1d2837;
+  cursor: pointer;
+}
